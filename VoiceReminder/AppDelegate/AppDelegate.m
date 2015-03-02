@@ -23,11 +23,6 @@
     UINavigationController *navi = [[UINavigationController alloc] initWithRootViewController:mainViewController];
     self.window.rootViewController = navi;
     
-    /*diepnn sdsdsd*/
-    
-    
-    
-    
     [self.window makeKeyAndVisible];
     return YES;
 }

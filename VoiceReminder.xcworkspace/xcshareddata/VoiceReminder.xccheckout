@@ -10,6 +10,8 @@
 	<string>VoiceReminder</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>18F81E5FA9458EB3E72A6577C51B46C2B8C51C1F</key>
+		<string>https://github.com/anhdbknws/ProjectVoiceReminder.git</string>
 		<key>A61D724C07E1E518FFCC0885D2D4B211417E64E5</key>
 		<string>https://github.com/anhdbknws/Project.git</string>
 		<key>CF93A142B077FDFA795E36F7207B4F4DCBFF069B</key>
@@ -19,17 +21,19 @@
 	<string>VoiceReminder.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
+		<key>18F81E5FA9458EB3E72A6577C51B46C2B8C51C1F</key>
+		<string>..</string>
 		<key>A61D724C07E1E518FFCC0885D2D4B211417E64E5</key>
 		<string>../..</string>
 		<key>CF93A142B077FDFA795E36F7207B4F4DCBFF069B</key>
-		<string>..</string>
+		<string>../../voiceReminder</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/anhdbknws/voiceReminder.git</string>
+	<string>https://github.com/anhdbknws/ProjectVoiceReminder.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>CF93A142B077FDFA795E36F7207B4F4DCBFF069B</string>
+	<string>18F81E5FA9458EB3E72A6577C51B46C2B8C51C1F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -39,6 +43,14 @@
 			<string>A61D724C07E1E518FFCC0885D2D4B211417E64E5</string>
 			<key>IDESourceControlWCCName</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>18F81E5FA9458EB3E72A6577C51B46C2B8C51C1F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ProjectVoiceReminder</string>
 		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
